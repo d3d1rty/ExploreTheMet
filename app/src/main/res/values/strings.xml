@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Explore the Met</string>
+    <string name="label_search_string">Enter search terms...</string>
+    <string name="options_menu_acknowledgement">Acknowledgement</string>
+    <string name="title_acknowledgement">Acknowledgement</string>
+    <string name="message_acknowledgement">The developer would like to thank the Metropolitan Museum of Art for providing access to their Creative Commons Zero select datasets and API. For more information on the API please refer to https://metmuseum.github.io/ Use of this data and API does not constitute endorsement of this app or the developer by the MET.</string>
+    <string name="search_no_wifi_title">Oops</string>
+    <string name="search_no_wifi_message">Looks like you don\'t have access to the internet. Check your connection and try again.</string>
+    <string name="searching_text">Searching...</string>
+    <string name="art_object_intent_key">artObjectIntentKey</string>
+    <string name="unavailable_page_title">Oops</string>
+    <string name="unavailable_page_message">This page is currently unavailable.</string>
+</resources>
